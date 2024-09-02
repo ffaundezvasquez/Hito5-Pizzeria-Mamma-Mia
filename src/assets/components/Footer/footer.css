@@ -1,0 +1,15 @@
+.piePagina{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding: 50px;
+    font-size: 20px;
+    background-color: black;
+
+}
+
+.textFooter {
+    color: aliceblue;
+}

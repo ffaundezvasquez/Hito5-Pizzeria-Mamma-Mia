@@ -1,0 +1,17 @@
+h5{
+    text-align: center;
+  }
+  
+  .lista{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .costo{
+    text-align: center;
+  
+  }
+  
+  .card-body{
+    text-align: center;
+  }

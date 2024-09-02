@@ -1,0 +1,17 @@
+.encabezado {
+    background-image: url('https://st4.depositphotos.com/11169808/25132/i/1600/depositphotos_251323808-stock-photo-tasty-pepperoni-pizza-with-mushrooms.jpg');
+    background-size: cover; 
+    background-position: center; 
+    height: 200px; 
+    line-height: 1.2;
+    color: aliceblue;
+  }
+
+  h1 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+  
+  }
